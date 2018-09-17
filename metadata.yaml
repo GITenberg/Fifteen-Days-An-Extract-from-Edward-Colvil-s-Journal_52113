@@ -1,0 +1,30 @@
+_repo: Fifteen-Days-An-Extract-from-Edward-Colvil-s-Journal_52113
+_version: 0.0.1
+alternative_title: '15 Days: An Extract from Edward Colvil''s Journal'
+creator:
+  author:
+    agent_name: Putnam, Mary Lowell
+    aliases:
+    - Putnam, M. L. (Mary Lowell)
+    - Putnam, Mary Traill Spence Lowell
+    birthdate: 1810
+    deathdate: 1898
+    gutenberg_agent_id: '46685'
+    url: http://www.gutenberg.org/2009/agents/46685
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Traill_Spence_Lowell_Putnam
+description: ''
+gutenberg_issued: '2016-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52113'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- United States -- Fiction'
+- !lcsh 'Diary fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Fifteen Days: An Extract from Edward Colvil''s Journal'
+url: http://www.gutenberg.org/ebooks/52113
